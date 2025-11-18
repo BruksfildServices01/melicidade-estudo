@@ -11,6 +11,7 @@ public class Funcoes_E_Procedimentos {
     public static void saudacao() {
         System.out.println("Olá, bem-vindo!");
     }
+
     public static void mostrarIdade(int idade) {
         System.out.println("Sua idade é: " + idade);
     }
